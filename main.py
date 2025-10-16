@@ -4,8 +4,8 @@ import telebot
 from telebot import types
 from threading import Thread
 
-API_TOKEN = '7029987670:AAFJAWnXXpxoPyIIB0PKt7l5UsHO26PVqb0'
-ADMIN_ID = 7165921192
+API_TOKEN = ''
+ADMIN_ID = 
 
 # Глобальная переменная для хранения целевого URL
 targeturl = None
